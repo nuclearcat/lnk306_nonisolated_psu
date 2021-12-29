@@ -4,3 +4,5 @@ Do not use it unless you know the difference between isolated or non-isolated po
 
 My goal was to obtain a DC-DC supply with a very wide operating voltage range. 
 On tests with 5v output, this power supply provides enough voltage for esp32 starting from 20v input voltage (DC)
+
+![Drag Racing](https://github.com/nuclearcat/lnk306_nonisolated_psu/blob/master/pics/psu_v1.jpg?raw=true)
